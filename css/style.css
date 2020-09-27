@@ -1,0 +1,86 @@
+.box_red {
+	width: 80%;
+	height: 80%;
+	background-color: red;
+	position: absolute;
+	left: 20%;
+	bottom: 20%;
+}
+
+.box_blue {
+	width: 20%;
+	height: 20%;
+	background-color: blue;
+	position: absolute;
+	top: 80%;
+}
+
+.box_yellow {
+	width: 10%;
+	height: 10%;
+	background-color: yellow;
+	position: absolute;
+	top: 90%;
+	left: 90%;
+}
+
+.box_white_1 {
+	width: 20%;
+	height: 80%;
+	background-color: white;
+	position: absolute;
+}
+
+.box_white_2 {
+	width: 80%;
+	height: 20%;
+	background-color: white;
+	position: absolute;
+	top: 80%;
+	left: 20%;
+}
+
+
+.line_1 {
+	width: 28px;
+	height: 100%;
+	background-color: black;
+	position: absolute;
+	left: 20%;
+}
+
+.line_2 {
+	width: 100%;
+	height: 28px;
+	background-color: black;
+	position: absolute;
+	bottom: 20%;
+}
+
+.line_3 {
+	width: 20%;
+	height: 64px;
+	background-color: black;
+	position: absolute;
+	top: 30%;
+}
+
+.line_4 {
+	width: 10%;
+	height: 36px;
+	background-color: black;
+	position: absolute;
+	left: 90%;
+	bottom: 7.5%;
+}
+
+.line_5 {
+	width: 28px;
+	height: 20%;
+	background-color: black;
+	position: absolute;
+	left: 90%;
+	top: 80%;
+}
+
+
